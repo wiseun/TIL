@@ -14,4 +14,3 @@ Install for google test
 
 #### 3. Make static library and include at your unitt test project.   
 
-
