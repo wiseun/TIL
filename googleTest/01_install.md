@@ -12,5 +12,5 @@ Install for google test
     4. Please check $(your project path)/gtest
     5. If you need main api for unit test, please copy ./googletest/googletest/src/gtest_main.cc to your project.
 
-#### 3. Make static library and include at your unitt test project.   
+#### 3. Make static library and include at your unit test project.   
 
